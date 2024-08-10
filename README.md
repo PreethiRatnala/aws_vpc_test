@@ -6,6 +6,7 @@ create vpc
 create internet gateway(igw)
 attach vpc to igw
 create 2 subnets in each category(private/private/db)
+create databse subnet group
 create elastic ip
 create nat gateway
 created route tables(private/private/db)
